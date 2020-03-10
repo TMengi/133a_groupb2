@@ -9,7 +9,7 @@
 %Pf = final pressure leaving the pump
 %gamma = heat capacity ratio of the fluid
 %cp = specific heat at constant pressure
-%ctheta1 = tangential velocity of fluid entiring rotor
+%ctheta1 = tangential velocity of fluid entering rotor
 %ctheta2 = tangential velocity of fluid exiting rotor
 
 function [pumpPower] = pumpPower(mdot,Ti,efficiency,Pi,Pf,gamma,cp,ctheta1,ctheta2)
