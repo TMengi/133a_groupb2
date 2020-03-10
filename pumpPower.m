@@ -2,7 +2,7 @@
 %INPUTS
 %mdot = mass flow rate of the working fluid (kg/s)
 %density = density of the working fluid (kg/m^3)
-%efficiency = efficiency of the pump (decimal value)
+%efficiency = efficiency of the pump (decimal value) typ 75%-85% from page 217 of Text
 %Pi = initial pressure entering pump (Pascal)
 %Pe = final pressure leaving the pump (Pascal)
 
